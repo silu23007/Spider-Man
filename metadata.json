@@ -1,0 +1,6 @@
+{
+  "name": "Spider-Man: Brand New Day",
+  "description": "Experience the ultimate immersive hub for the upcoming Spider-Man: Brand New Day movie crossover with Hulk. Features interactive comic book panels, web-swinging animations, detailed character bios, a live countdown, a fully integrated ticket booking system, and a S.H.I.E.L.D./Daily Bugle database console powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
